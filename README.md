@@ -4,7 +4,7 @@
 
 ## Задание* (необязательное)
 
-Cделать конфигурацию docker-compose любого Вашего проекта из курса по Django, который использует БД (например, [CRUD: Склады и запасы](https://github.com/netology-code/dj-homeworks/tree/drf/3.2-crud/stocks_products)).
+Cделать конфигурацию docker-compose любого Вашего проекта из курса по Django, который использует БД (например, [CRUD: Склады и товары](docker-compose_hw/app).
 
 Результатом является `docker-compose.yml` файл с описанием конфигурации для развертывания приложения (и не забудьте про `Dockerfile`).
 
